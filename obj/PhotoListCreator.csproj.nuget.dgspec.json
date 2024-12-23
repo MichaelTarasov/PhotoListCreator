@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj": {}
+    "D:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj": {}
   },
   "projects": {
-    "d:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj": {
+    "D:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj",
+        "projectUniqueName": "D:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj",
         "projectName": "PhotoListCreator",
-        "projectPath": "d:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj",
+        "projectPath": "D:\\_Git\\CS\\PhotoListCreator\\PhotoListCreator.csproj",
         "packagesPath": "C:\\Users\\mt\\.nuget\\packages\\",
-        "outputPath": "d:\\_Git\\CS\\PhotoListCreator\\obj\\",
+        "outputPath": "D:\\_Git\\CS\\PhotoListCreator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

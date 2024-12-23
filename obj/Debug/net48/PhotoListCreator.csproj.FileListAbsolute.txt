@@ -8,3 +8,4 @@ D:\_Git\CS\PhotoListCreator\obj\Debug\net48\PhotoListCreator.AssemblyInfo.cs
 D:\_Git\CS\PhotoListCreator\obj\Debug\net48\PhotoListCreator.csproj.CoreCompileInputs.cache
 D:\_Git\CS\PhotoListCreator\obj\Debug\net48\PhotoListCreator.exe
 D:\_Git\CS\PhotoListCreator\obj\Debug\net48\PhotoListCreator.pdb
+d:\_Git\CS\PhotoListCreator\obj\Debug\net48\PhotoListCreator.sourcelink.json
