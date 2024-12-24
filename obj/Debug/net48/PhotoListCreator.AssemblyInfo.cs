@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoListCreator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c4049ae45d147031a303f38b9958b34f9d352a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6572e64173162b5d301435bfe5660f751d2a2a68")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoListCreator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoListCreator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
